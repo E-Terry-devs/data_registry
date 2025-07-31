@@ -1,2 +1,4 @@
 **__pycache
 **.pyc
+cvat_annotations/
+*.py[cod]

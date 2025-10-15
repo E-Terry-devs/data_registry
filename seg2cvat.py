@@ -112,7 +112,7 @@ def sam_masks_to_cvat(images_dir, masks_dir, output_xml):
         
         # Find corresponding mask file
         base_name = os.path.splitext(image_file)[0]
-        mask_file = f"{base_name}_mask.png"
+        mask_file = f"{base_name}.png"
         mask_path = os.path.join(masks_dir, mask_file)
         
         if not os.path.exists(mask_path):

@@ -1,0 +1,4 @@
+[core]
+    remote = gcp-remote
+['remote "gcp-remote"']
+    url = gs://datasets-e-terry/

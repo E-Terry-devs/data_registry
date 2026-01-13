@@ -1,0 +1,6 @@
+outs:
+- md5: bf643e6105a3fa79381848076499263e.dir
+  size: 12766808
+  nfiles: 7
+  hash: md5
+  path: fh_field_data

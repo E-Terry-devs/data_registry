@@ -1,0 +1,5 @@
+outs:
+- md5: b7f8e745510a381155fbd88b913cfd52
+  size: 88285661
+  hash: md5
+  path: efficientnet-b4_UNetStemSeg_kopfsalat.onnx

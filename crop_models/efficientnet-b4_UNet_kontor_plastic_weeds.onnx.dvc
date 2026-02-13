@@ -1,0 +1,5 @@
+outs:
+- md5: 03e57b914a32a7fd666c2b0605426098
+  size: 77568013
+  hash: md5
+  path: efficientnet-b4_UNet_kontor_plastic_weeds.onnx

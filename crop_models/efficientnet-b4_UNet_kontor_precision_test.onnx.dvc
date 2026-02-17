@@ -1,0 +1,5 @@
+outs:
+- md5: 5d2faccbaf44f29fdd77bcd7e7272885
+  size: 77568013
+  hash: md5
+  path: efficientnet-b4_UNet_kontor_precision_test.onnx

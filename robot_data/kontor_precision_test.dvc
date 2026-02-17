@@ -1,0 +1,6 @@
+outs:
+- md5: 9624fa95aaed69a0360778cc7d9ac5a5.dir
+  size: 3806450
+  nfiles: 10
+  hash: md5
+  path: kontor_precision_test
